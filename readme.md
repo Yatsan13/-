@@ -1,5 +1,5 @@
 Блок-схема алгоритма решения задачи -
-![Блок-схема:](blocks.png) ![shema](https://user-images.githubusercontent.com/109305863/191482881-e130632d-c296-4e80-8c24-6e0fbac66804.png)
+[shema](https://user-images.githubusercontent.com/109305863/191482881-e130632d-c296-4e80-8c24-6e0fbac66804.png)
 
 
 
